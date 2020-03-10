@@ -1,0 +1,9 @@
+C:\Users\C3dr1k\source\repos\03_08\03_08\bin\Debug\03_08.exe.config
+C:\Users\C3dr1k\source\repos\03_08\03_08\bin\Debug\03_08.exe
+C:\Users\C3dr1k\source\repos\03_08\03_08\bin\Debug\03_08.pdb
+C:\Users\C3dr1k\source\repos\03_08\03_08\obj\Debug\03_08.csprojAssemblyReference.cache
+C:\Users\C3dr1k\source\repos\03_08\03_08\obj\Debug\_03_08.Form1.resources
+C:\Users\C3dr1k\source\repos\03_08\03_08\obj\Debug\_03_08.Properties.Resources.resources
+C:\Users\C3dr1k\source\repos\03_08\03_08\obj\Debug\03_08.csproj.GenerateResource.cache
+C:\Users\C3dr1k\source\repos\03_08\03_08\obj\Debug\03_08.exe
+C:\Users\C3dr1k\source\repos\03_08\03_08\obj\Debug\03_08.pdb
