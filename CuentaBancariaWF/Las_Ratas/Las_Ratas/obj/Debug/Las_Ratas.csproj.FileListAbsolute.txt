@@ -1,0 +1,9 @@
+C:\Users\C3dr1k\source\repos\Las_Ratas\Las_Ratas\bin\Debug\Las_Ratas.exe.config
+C:\Users\C3dr1k\source\repos\Las_Ratas\Las_Ratas\bin\Debug\Las_Ratas.exe
+C:\Users\C3dr1k\source\repos\Las_Ratas\Las_Ratas\bin\Debug\Las_Ratas.pdb
+C:\Users\C3dr1k\source\repos\Las_Ratas\Las_Ratas\obj\Debug\Las_Ratas.csprojAssemblyReference.cache
+C:\Users\C3dr1k\source\repos\Las_Ratas\Las_Ratas\obj\Debug\Las_Ratas.Form1.resources
+C:\Users\C3dr1k\source\repos\Las_Ratas\Las_Ratas\obj\Debug\Las_Ratas.Properties.Resources.resources
+C:\Users\C3dr1k\source\repos\Las_Ratas\Las_Ratas\obj\Debug\Las_Ratas.csproj.GenerateResource.cache
+C:\Users\C3dr1k\source\repos\Las_Ratas\Las_Ratas\obj\Debug\Las_Ratas.exe
+C:\Users\C3dr1k\source\repos\Las_Ratas\Las_Ratas\obj\Debug\Las_Ratas.pdb
