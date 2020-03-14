@@ -1,0 +1,9 @@
+C:\Users\C3dr1k\source\repos\Practica_14_03_2020\Practica_14_03_2020\bin\Debug\Practica_14_03_2020.exe.config
+C:\Users\C3dr1k\source\repos\Practica_14_03_2020\Practica_14_03_2020\bin\Debug\Practica_14_03_2020.exe
+C:\Users\C3dr1k\source\repos\Practica_14_03_2020\Practica_14_03_2020\bin\Debug\Practica_14_03_2020.pdb
+C:\Users\C3dr1k\source\repos\Practica_14_03_2020\Practica_14_03_2020\obj\Debug\Practica_14_03_2020.csprojAssemblyReference.cache
+C:\Users\C3dr1k\source\repos\Practica_14_03_2020\Practica_14_03_2020\obj\Debug\Practica_14_03_2020.frmPrincipal.resources
+C:\Users\C3dr1k\source\repos\Practica_14_03_2020\Practica_14_03_2020\obj\Debug\Practica_14_03_2020.Properties.Resources.resources
+C:\Users\C3dr1k\source\repos\Practica_14_03_2020\Practica_14_03_2020\obj\Debug\Practica_14_03_2020.csproj.GenerateResource.cache
+C:\Users\C3dr1k\source\repos\Practica_14_03_2020\Practica_14_03_2020\obj\Debug\Practica_14_03_2020.exe
+C:\Users\C3dr1k\source\repos\Practica_14_03_2020\Practica_14_03_2020\obj\Debug\Practica_14_03_2020.pdb
