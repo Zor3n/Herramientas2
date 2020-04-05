@@ -1,0 +1,9 @@
+C:\Users\C3dr1k\source\repos\PracticaConSql_02_04\PracticaConSql_02_04\bin\Debug\PracticaConSql_02_04.exe.config
+C:\Users\C3dr1k\source\repos\PracticaConSql_02_04\PracticaConSql_02_04\bin\Debug\PracticaConSql_02_04.exe
+C:\Users\C3dr1k\source\repos\PracticaConSql_02_04\PracticaConSql_02_04\bin\Debug\PracticaConSql_02_04.pdb
+C:\Users\C3dr1k\source\repos\PracticaConSql_02_04\PracticaConSql_02_04\obj\Debug\PracticaConSql_02_04.csprojAssemblyReference.cache
+C:\Users\C3dr1k\source\repos\PracticaConSql_02_04\PracticaConSql_02_04\obj\Debug\PracticaConSql_02_04.frmCustomer.resources
+C:\Users\C3dr1k\source\repos\PracticaConSql_02_04\PracticaConSql_02_04\obj\Debug\PracticaConSql_02_04.Properties.Resources.resources
+C:\Users\C3dr1k\source\repos\PracticaConSql_02_04\PracticaConSql_02_04\obj\Debug\PracticaConSql_02_04.csproj.GenerateResource.cache
+C:\Users\C3dr1k\source\repos\PracticaConSql_02_04\PracticaConSql_02_04\obj\Debug\PracticaConSql_02_04.exe
+C:\Users\C3dr1k\source\repos\PracticaConSql_02_04\PracticaConSql_02_04\obj\Debug\PracticaConSql_02_04.pdb
